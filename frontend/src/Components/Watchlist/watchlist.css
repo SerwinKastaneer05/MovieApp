@@ -1,0 +1,8 @@
+.watchlist{
+   min-height: 95vh;
+  }
+  
+  .watchlist h3{
+      margin-top: 20px;
+      color: goldenrod;
+  }

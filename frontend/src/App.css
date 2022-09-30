@@ -1,0 +1,9 @@
+.App {
+ 
+text-align: center; 
+background-color: black;
+}
+
+.app-components{
+  min-height: 60vh;
+}
